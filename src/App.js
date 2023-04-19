@@ -38,7 +38,7 @@ function App() {
  
   function resetInput(e) { 
     // Add the code for the resetInput function
-    // Below is the model solution provided, I trie this and it didn't work as I wanted before I came up with my solution.
+    // Below is the model solution provided, I tried this and it didn't work as I wanted before I came up with my solution.
     // inputRef.current.value = 0;  
     e.preventDefault();
     inputRef.current.value = " ";
